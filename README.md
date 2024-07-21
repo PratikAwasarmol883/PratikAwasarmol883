@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratikAwasarmol883
 - 👀 I’m interested in Big Data ,Machine Learning ,Python ,MySQL,AWS,Java
-- 🌱 I’m currently learning Big Data ,Machine Learning ,Python ,MySQL,AWS
+- 🌱 I’m currently learning FastAPI, GOLANG, DGraph, Big Data ,Machine Learning ,Python ,MySQL,AWS
 - 💞️ I’m looking to collaborate on project.
 - 📫 How to reach me Email:pratikawasarmol883@gmail.com 
 
